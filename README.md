@@ -36,10 +36,10 @@
 
 ```bash
 # Clone this project
-$ git clone https://github.com/gab0071/nft-marketplace
+$ git clone https://github.com/catherinee24/NFT-Marketplace
 
 # Access
-$ cd nft-marketplace
+$ cd NFT-Marketplace
 
 # Install dependencies
 $ npm install
